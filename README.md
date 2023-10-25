@@ -9,5 +9,8 @@ No podrás ver todos mis proyectos ya que algunos están como privados :roll_eye
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iconicoff-nicolas-96a1b1a8/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://about-me-inky.vercel.app/)
 
+<div>
+[![Portfolio](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 nicolas.iconicoff@gmail.com
+</div>
