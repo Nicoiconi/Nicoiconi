@@ -6,7 +6,10 @@ Fanático del stack MERN, suele ser la base de todos mis proyectos. Pero lejos d
 
 No podrás ver todos mis proyectos ya que algunos están como privados :roll_eyes:, tengo ideas propias en desarrollo que me gustaría darles mi toque personal, y creo tienen potencial :mechanical_arm:.
 
+<a href="https://www.linkedin.com/in/iconicoff-nicolas-96a1b1a8/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://about-me-inky.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
