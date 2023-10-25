@@ -9,6 +9,8 @@ No podrás ver todos mis proyectos ya que algunos están como privados :roll_eye
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iconicoff-nicolas-96a1b1a8/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://about-me-inky.vercel.app/)
 
+</hr>
+
 <div>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 nicolas.iconicoff@gmail.com
@@ -30,6 +32,7 @@ nicolas.iconicoff@gmail.com
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
 
+</hr>
 
 <h3>Herramientas de trabajo</h3>
 </br>
@@ -41,6 +44,7 @@ nicolas.iconicoff@gmail.com
 <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
 </div>
 
+</hr>
 
 <h3>Tecnologías secundarias</h3>
 Las siguientes tecnologías las apliqué eventualmente por curiosidad y sin inconvenientes. No descarto la posibilidad de volver a implementarlas
