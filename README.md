@@ -15,6 +15,7 @@ nicolas.iconicoff@gmail.com
 </div>
 
 <h3>Tecnologías principales</h3>
+</br>
 <div>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -31,6 +32,7 @@ nicolas.iconicoff@gmail.com
 
 
 <h3>Herramientas de trabajo</h3>
+</br>
 <div>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -42,6 +44,7 @@ nicolas.iconicoff@gmail.com
 
 <h3>Tecnologías secundarias</h3>
 Las siguientes tecnologías las apliqué eventualmente por curiosidad y sin inconvenientes. No descarto la posibilidad de volver a implementarlas
+</br>
 <div>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/Java-e6e6e6?style=for-the-badge&logo=java&logoColor=black" />
