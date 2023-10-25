@@ -44,7 +44,7 @@ nicolas.iconicoff@gmail.com
 Las siguientes tecnologías las apliqué eventualmente por curiosidad y sin inconvenientes. No descarto la posibilidad de volver a implementarlas
 <div>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/Java-C21325?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=java&logoColor=black" />
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
