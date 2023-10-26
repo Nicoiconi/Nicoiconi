@@ -9,12 +9,14 @@ No podrás ver todos mis proyectos ya que algunos están como privados :roll_eye
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iconicoff-nicolas-96a1b1a8/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://about-me-inky.vercel.app/)
 
-</hr>
+</br>
 
 <div>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 nicolas.iconicoff@gmail.com
 </div>
+
+</br>
 
 <h3>Tecnologías principales</h3>
 </br>
@@ -33,10 +35,11 @@ nicolas.iconicoff@gmail.com
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
 </div>
 
-</hr>
+</br>
 
 <h3>Herramientas de trabajo</h3>
 </br>
+
 <div>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -50,6 +53,7 @@ nicolas.iconicoff@gmail.com
 <h3>Tecnologías secundarias</h3>
 Las siguientes tecnologías las apliqué eventualmente por curiosidad y sin inconvenientes. No descarto la posibilidad de volver a implementarlas
 </br>
+
 <div>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/Java-e6e6e6?style=for-the-badge&logo=java&logoColor=black" />
@@ -62,7 +66,7 @@ Las siguientes tecnologías las apliqué eventualmente por curiosidad y sin inco
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
 </div>
 
-</hr>
+</br>
 
 <h3>Más herramientas</h3>
 
