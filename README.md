@@ -51,7 +51,7 @@ nicolas.iconicoff@gmail.com
 </hr>
 
 <h3>Tecnologías secundarias</h3>
-Las siguientes tecnologías las apliqué eventualmente por curiosidad y sin inconvenientes. No descarto la posibilidad de volver a implementarlas
+Estas tecnologías no las utilizo con frecuencia pero pude aplicarlas sin inconvenientes. No descarto la posibilidad de volver a implementarlas.
 </br>
 
 <div>
