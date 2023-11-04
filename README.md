@@ -7,8 +7,8 @@ Espero cualquiera sea el motivo de tu visita te sirva de algo lo que encuentres 
 
 No podrás ver todos mis proyectos ya que algunos están como privados :roll_eyes:, tengo ideas propias en desarrollo que me gustaría darles mi toque personal, y creo tienen potencial :mechanical_arm:.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iconicoff-nicolas-96a1b1a8/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://about-me-inky.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-iconicoff/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://nicolas-iconicoff.vercel.app/)
 
 </br>
 
