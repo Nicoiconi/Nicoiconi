@@ -1,4 +1,4 @@
-Hola:grey_exclamation: :wave: :grinning: Bienvenido/a:grey_exclamation:
+Hola :grey_exclamation: :wave: :grinning: Bienvenido/a :grey_exclamation:
 
 Desarrollador web full stack enfocado al desarrollo de software :computer:
 
